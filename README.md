@@ -26,5 +26,4 @@ This project models the following real-world entities:
 
 ---
 
-## 📂 Folder Structure
 
